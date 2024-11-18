@@ -1,0 +1,11 @@
+{
+ "player": {
+  "name": "Player1",
+  "health": "100",
+  "level": "1",
+  "inventory": {
+   "weapons": ["sword", "shield"],
+   "items": ["potion"]
+  }
+ }
+}
