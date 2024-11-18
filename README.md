@@ -1,3 +1,6 @@
+Ссылки на репозиторий
+- [GitHub Репозиторий](https://github.com/Rajabalimax/config-language-parser)
+
 # Парсер json в формат учебного конфигурационного языка
 
 ## Постановка задачи
