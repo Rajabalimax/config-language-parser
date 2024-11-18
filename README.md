@@ -46,8 +46,8 @@ def имя = значение
 ## Запуск программы
 Запуск программы
 
-![Запуск программы](https://github.com/ART3RY-G1N/Parser/blob/master/Снимок%20экрана%202024-11-14%20170832.png)
+![Запуск программы](https://github.com/Rajabalimax/config-language-parser/blob/main/1Con.png)
 ## Тестирование программы
 Запуск тестов программы
 
-![Запуск программы](https://github.com/ART3RY-G1N/Parser/blob/master/Снимок%20экрана%202024-11-13%20225437.png)
+![Запуск программы](https://github.com/Rajabalimax/config-language-parser/blob/main/2Con.png)
